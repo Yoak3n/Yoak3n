@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoak3n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 状态
+#### 状态:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

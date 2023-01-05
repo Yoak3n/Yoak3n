@@ -1,5 +1,8 @@
 **欢迎访问！**
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yoak3n&repo=SerialPagesGenerator4notion)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yoak3n&repo=DoubanMovie2Notion)](https://github.com/anuraghazra/github-readme-stats)
+
 历史专业，兴趣广泛，尤其喜欢尝试在自己的作品中表达，在包括但不限于音乐、小说、视频、游戏等方面鼓捣出了一些拙作。
 
 #### 编程方面：

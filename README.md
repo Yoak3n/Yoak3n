@@ -33,7 +33,7 @@ HTML         7 mins          -------------------------   01.41 %
 
 ![Yoak3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoak3n&show_icons=true)
 
-[![Yoak3n's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yoak3n)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 

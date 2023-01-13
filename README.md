@@ -1,7 +1,7 @@
 **欢迎访问！**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yoak3n&repo=SerialPagesGenerator4notion)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yoak3n&repo=DoubanMovie2Notion)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-omega-ten-91.vercel.app/api/pin/?username=Yoak3n&repo=SerialPagesGenerator4notion)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats-omega-ten-91.vercel.app/api/pin/?username=Yoak3n&repo=DoubanMovie2Notion)](https://github.com/anuraghazra/github-readme-stats)
 
 历史专业，兴趣广泛，尤其喜欢尝试鼓捣出自己的作品，在包括但不限于音乐、小说、视频、游戏等方面产出过一些拙作。
 
@@ -11,7 +11,7 @@
 * 正在缓慢学习Java，也是面向对象，其实吸收起来很快，只是还需要像python一样去了解它实际能做什么让自己有方向的去实现项目才能获得那种我学会了的成就感。  
 * 尝试接触更多编程：JavaScript和Golang
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoak3n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-omega-ten-91.vercel.app/api/top-langs/?username=Yoak3n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 状态:
 <!--START_SECTION:waka-->
@@ -32,7 +32,7 @@ JSON             56 mins         >------------------------   03.59 %
 <!--END_SECTION:waka-->
 
 
-![Yoak3n's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoak3n&show_icons=true)
+![Yoak3n's GitHub stats](https://github-readme-stats-omega-ten-91.vercel.app/api?username=Yoak3n&show_icons=true)
 
 
 

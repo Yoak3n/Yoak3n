@@ -9,7 +9,7 @@
 * 学了一点C和C++，C是入门，C++是为了UnrealEngine看的，遗憾的是，都差不多忘完了，因为当时没有比较强烈的代码编程需求，就连UE都能图形化编程。  
 * 比较熟练地掌握了python语言，尽管由于基础不牢需要面向搜索引擎编程，但不断学习进步也是好事。  
 * 正在缓慢学习Java，也是面向对象，其实吸收起来很快，只是还需要像python一样去了解它实际能做什么让自己有方向的去实现项目才能获得那种我学会了的成就感。  
-* 尝试接触更多编程：JavaScript和Golang
+* 尝试接触更多编程语言：JavaScript和Golang
 
 [![Top Langs](https://github-readme-stats-omega-ten-91.vercel.app/api/top-langs/?username=Yoak3n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### 状态:

@@ -12,31 +12,16 @@
 * 尝试接触更多编程：JavaScript和Golang
 
 [![Top Langs](https://github-readme-stats-omega-ten-91.vercel.app/api/top-langs/?username=Yoak3n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 #### 状态:
-<!--START_SECTION:waka-->
 
-```text
-From: 03 January 2023 - To: 11 January 2023
-
-Total Time: 26 hrs 18 mins
-
-Python           11 hrs 51 mins  >>>>>>>>>>>--------------   45.05 %
-Markdown         4 hrs 37 mins   >>>>---------------------   17.59 %
-Go               4 hrs           >>>>---------------------   15.24 %
-JavaScript       3 hrs 24 mins   >>>----------------------   12.95 %
-Java             1 hr 13 mins    >------------------------   04.68 %
-JSON             56 mins         >------------------------   03.59 %
-```
-
-<!--END_SECTION:waka-->
-
+[![Yoak3n's wakatime stats](https://github-readme-stats-omega-ten-91.vercel.app/api/wakatime?username=Yoak3n)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Yoak3n's GitHub stats](https://github-readme-stats-omega-ten-91.vercel.app/api?username=Yoak3n&show_icons=true)
 
 
 
-
+<!--#START_SECTION:waka-->
+<!--#END_SECTION:waka-->
 
 
 

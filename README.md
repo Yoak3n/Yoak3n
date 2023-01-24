@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats-omega-ten-91.vercel.app/api/top-langs/?username=Yoak3n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #### 状态:
 
-[![Yoak3n's wakatime stats](https://github-readme-stats-omega-ten-91.vercel.app/api/wakatime?username=Yoak3n)](https://github.com/anuraghazra/github-readme-stats)
+[![Yoak3n's wakatime stats](https://github-readme-stats-omega-ten-91.vercel.app/api/wakatime?username=Yoak3n&hide=json,other,go.mod,yaml,text)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Yoak3n's GitHub stats](https://github-readme-stats-omega-ten-91.vercel.app/api?username=Yoak3n&show_icons=true)
 

@@ -3,7 +3,7 @@
 [![Readme Card](https://github-readme-stats-omega-ten-91.vercel.app/api/pin/?username=Yoak3n&repo=DoubanMovie2Notion)](https://github.com/Yoak3n/SerialPagesGenerator4notion))
 [![Readme Card](https://github-readme-stats-omega-ten-91.vercel.app/api/pin/?username=Yoak3n&repo=SerialPagesGenerator4notion)](https://github.com/Yoak3n/DoubanMovie2Notion)
 
-历史专业，兴趣广泛，尤其喜欢尝试鼓捣出自己的作品，在包括但不限于音乐、小说、视频、游戏等方面产出过一些拙作。
+历史专业，兴趣广泛，尤其喜欢尝试鼓捣出自己的作品，在包括但不限于音乐、小说、视频、游戏等方面产出过一些拙作。  
 个人博客：https://blog.yoake.top
 
 #### 编程方面：

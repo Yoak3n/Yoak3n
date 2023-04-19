@@ -22,7 +22,7 @@
 
 #### 状态:
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats-omega-ten-91.vercel.app/api/wakatime?username=Yoak3n&hide=json,other,go.mod,yaml,text" alt="Yoak3n's wakatime stats"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://github-readme-stats-omega-ten-91.vercel.app/api/wakatime?username=Yoak3n&hide=json,other,go.mod,yaml,text" alt="Yoak3n's wakatime stats"></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://github-readme-stats-omega-ten-91.vercel.app/api?username=Yoak3n&show_icons=true" alt="Yoak3n's GitHub stats"></a>
 

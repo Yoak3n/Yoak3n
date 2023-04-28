@@ -6,7 +6,7 @@
 非专业编程爱好者，只为自娱自乐。  
 个人博客：https://blog.yoake.top
 
-<img align="right" src="https://github-readme-stats-omega-ten-91.vercel.app/api/top-langs/?username=Yoak3n&layout=compact">
+<img align="right" src="https://github-readme-stats-omega-ten-91.vercel.app/api/top-langs/?username=Yoak3n&layout=compact&hide=dockerfile">
   
 <br>
   
@@ -22,7 +22,7 @@
 
 #### 状态:
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://github-readme-stats-omega-ten-91.vercel.app/api/wakatime?username=Yoak3n&hide=json,other,go.mod,yaml,text,dockerfile,Dockerfile" alt="Yoak3n's wakatime stats"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://github-readme-stats-omega-ten-91.vercel.app/api/wakatime?username=Yoak3n&hide=json,other,go.mod,yaml,text,dockerfile,Dockerfile,auto_detected,gitignore-file,docker" alt="Yoak3n's wakatime stats"></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://github-readme-stats-omega-ten-91.vercel.app/api?username=Yoak3n&show_icons=true" alt="Yoak3n's GitHub stats"></a>
 

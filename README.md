@@ -1,7 +1,8 @@
 **欢迎访问！**
 <!-- 
 [![Readme Card](https://github-readme-stats-omega-ten-91.vercel.app/api/pin/?username=Yoak3n&repo=SerialPagesGenerator4notion)](https://github.com/Yoak3n/SerialPagesGenerator4notion)
-[![Readme Card](https://github-readme-stats-omega-ten-91.vercel.app/api/pin/?username=Yoak3n&repo=EdgeGPT-http)](https://github.com/Yoak3n/EdgeGPT-http) -->
+[![Readme Card](https://github-readme-stats-omega-ten-91.vercel.app/api/pin/?username=Yoak3n&repo=EdgeGPT-http)](https://github.com/Yoak3n/EdgeGPT-http) 
+-->
 
 非专业编程爱好者，只为自娱自乐。  
 个人博客：https://blog.yoake.top

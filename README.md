@@ -23,7 +23,7 @@
 
 #### 状态:
 <p><a href="https://wakatime.com/@dad597c9-8d2e-47ad-b896-444bc51cb9ae"><img src="https://wakatime.com/badge/user/dad597c9-8d2e-47ad-b896-444bc51cb9ae.svg" alt="Total time coded since Jan 4 2023" /></a></p>
-<a href="https://wakatime.com/@Yoak3n"><img  src="https://github-readme-stats-omega-ten-91.vercel.app/api/wakatime?username=Yoak3n&hide_title=true&theme=transparent&layout=compact&langs_count=12&range=all_time" alt="Yoak3n's wakatime stats"></a>
+<a href="https://wakatime.com/@Yoak3n"><img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Yoak3n&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time" alt="Yoak3n's wakatime stats"></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img  src="https://github-readme-stats-omega-ten-91.vercel.app/api?username=Yoak3n&show_icons=true" alt="Yoak3n's GitHub stats"></a>
 

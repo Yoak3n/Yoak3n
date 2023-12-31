@@ -16,7 +16,8 @@
 ![](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Archlinux-33aadd?style=flat-square&logo=Archlinux&logoColor=fff)
+
 
 
 <hr>

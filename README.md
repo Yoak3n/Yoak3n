@@ -7,7 +7,7 @@
 非专业编程爱好者，只为自娱自乐。  
 个人博客：<a href="https://blog.yoake.top" target="_blank">Mou1ght</a>
 
-<img align="right" alt="刷新一下试试~" src="https://github-readme-stats-omega-ten-91.vercel.app/api/top-langs/?username=Yoak3n&layout=compact&hide=dockerfile,css,html,scss">
+<img align="right" alt="刷新一下试试~" src="https://github-readme-stats-omega-ten-91.vercel.app/api/top-langs/?username=Yoak3n&layout=compact&hide=dockerfile,css,html,scss,less">
   
 <br>
   
